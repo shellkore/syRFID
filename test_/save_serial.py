@@ -1,6 +1,6 @@
 ## import the serial library
 import serial
-
+ 
 ## Boolean variable that will represent 
 ## whether or not the arduino is connected
 connected = False
