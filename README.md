@@ -14,3 +14,4 @@
 
 This is a IOT based project to run the RC522 with arduino as well as Raspberry Pi.
 
+>sharing is caring. Star this repo and encourage the coder.
